@@ -1,0 +1,27 @@
+.Login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Login input{
+    width: 50%;
+    height: 30px;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Login button{
+    background-color: blue;
+    color:  white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 40%;
+}

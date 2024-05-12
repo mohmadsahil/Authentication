@@ -1,0 +1,19 @@
+.Homepage{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.Homepage h1{
+    font-size: 50px;
+}
+
+.Homepage button{
+    background-color: blue;
+    color:  white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
